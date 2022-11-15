@@ -2,8 +2,8 @@
 This is my portfolio for Salesforce &amp; nCino
 
 # Salesforce 
-## Certifications (Salesforce)
-Trailhead
+## Certifications & Trailhead (Salesforce)
+
 
 ---
 
