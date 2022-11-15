@@ -24,23 +24,25 @@ This is my portfolio for Salesforce &amp; nCino
 ---
 ## Flows Automations
   
-#Screen Flows:
+  
+## Screen Flows:
 
-Reasoning -
+**Reasoning** -
 Create a quick contact on the account object with validation rules for phone numbers / tieing to the account object without having to assigned it. The flow will display error messages and let the user go to the previous page to edit it.
 Very simple flow to allow the user to create a contact and if the user input the incorrect data it will display the faultmessage
 
 ![image](https://user-images.githubusercontent.com/117833554/201966890-b5433c94-7184-4b91-a70d-ce9206808af6.png)
 
-Reasoning -
+
+**Reasoning** -
 Created a quick contact/opportunity and automated created Opportunity Contact Role with Multi-Screens.
 Ulitize - Get Record to retrieve account records so the contact object can use those fields for address. Created two screens with Contact/Opportunity *(Picklists for Opportunity as well) On the Opportunity screen you can search for accounts as well. After going through the whole process using recordId I was able to create an Opportunity Contact Role automatically without using an screen. Each screen support a Fault error message
 
 ![image](https://user-images.githubusercontent.com/117833554/201966970-d77946cc-0203-46bc-92ec-2c84c1b5513d.png)
 
-Record Trigger Flows:
+## Record Trigger Flows:
 
-Reasoning -
+**Reasoning** -
 
 Created a custom object called "Tickets" its used to allow users to open tickets in regards to nCino related issues/erorrs/etc. Need a way to alert the user's when they were assigned a ticket and display the description of the ticket in outlook.
 When does this flow launched? When the record is created or update because the field "Assigned_to" need to be update with a user. When a user opened a ticket they should not assigned it to anyone first because the administrator team need to decide where to direct the ticket to get it solved. Using the Element Action email we can get a custom notification when a user is assigned a ticket.
@@ -51,7 +53,8 @@ When does this flow launched? When the record is created or update because the f
 
 ## nCino
 ![image](https://user-images.githubusercontent.com/117833554/201967348-6faac0f5-d250-4281-b556-27111eb87a6f.png)
-Feedback
+
+**Feedback**
 “Knox was amazing and very professional! He went over and beyond by calling me and zooming with me to get down to the matter” - Stalk-holder
 
 “Thank you for your partnership with the Commercial Power Hours. You are instrumental in the process, updates and making nCino efficient for all associates. You tiresly work behind the scenes to make nCino work! Excited to see what you can do in 2022!” - Banking Learner Instructor”
@@ -60,25 +63,22 @@ Feedback
 
 "Congratulations on achieving your nCino 301 Commercial Banking Configuration Certification! That took several training sessions and then a closed-book exam. Great Job in achieving the first official nCino Certification for the bank."
 
-
-
+---
 
 
 #Certifications (nCino)
-Achievements:
+**Achievements:**
 Courses/ Certification
-  301 Commercial Banking Functional Certification Completed
-  201 Commercial Banking Functional Course Completed
+ 301 Commercial Banking Functional Certification Completed
+ 201 Commercial Banking Functional Course Completed
  301 Commercial Banking Functional Course Completed
  Attend nCino Insight 2022
  
 ![image](https://user-images.githubusercontent.com/117833554/201967615-89ef99a7-133c-4020-828d-af36419a80ef.png)
 
 Support and Resolving over 2,305 tickets over the past six months -
-
 Reason -
 Necessary to have a ticketing system to get User feedback and error fixed. Using an custom object "Tickets" it allows the end-user to open tickets to solve error message, new ideas, requests, new users etc..
-
 Successful -
 Tickets being response to and redirected is crucial to the nCino platform. Being able to solve those business problems is necessary for the workflow to continue running smoothly. Saving time and Impacted for the customer if these are not fixed in a timely manner the customer might opt for another business. Using tickets and gathering feedback from the user's. We are able to work on enhancement to improve workflow all around the platform in which improve the user input and efficiency.
 
