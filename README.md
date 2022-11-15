@@ -1,4 +1,4 @@
-# KnoxNethanSalesforce
+# Knox-Nethan Salesforce
 This is my portfolio for Salesforce &amp; nCino
 
 # Salesforce 
