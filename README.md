@@ -66,13 +66,16 @@ When does this flow launched? When the record is created or update because the f
 ---
 
 
-#Certifications (nCino)
+## Certifications (nCino)
+
 **Achievements:**
 Courses/ Certification
  301 Commercial Banking Functional Certification Completed
  201 Commercial Banking Functional Course Completed
  301 Commercial Banking Functional Course Completed
  Attend nCino Insight 2022
+ 
+ ---
  
 ![image](https://user-images.githubusercontent.com/117833554/201967615-89ef99a7-133c-4020-828d-af36419a80ef.png)
 
