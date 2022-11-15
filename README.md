@@ -18,3 +18,4 @@ Trailhead
     *Security Specialist SuperBadge*
     
     *Ranger Status*
+![image](https://user-images.githubusercontent.com/117833554/201965058-9c28142e-549b-47c8-82fd-8a0084a0d20c.png)
