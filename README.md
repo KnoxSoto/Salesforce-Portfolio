@@ -1,6 +1,6 @@
 # Knox-Nethan Salesforce
 This is my portfolio for Salesforce &amp; nCino
-
+Currently studying Platform Developer I
 # Salesforce 
 ## Certifications & Trailhead (Salesforce)
 
