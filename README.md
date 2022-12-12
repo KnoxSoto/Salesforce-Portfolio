@@ -27,14 +27,14 @@ Currently studying Platform Developer I
   
 ## Screen Flows:
 
-**Reasoning** -
+**AIM** -
 Create a quick contact on the account object with validation rules for phone numbers / tieing to the account object without having to assigned it. The flow will display error messages and let the user go to the previous page to edit it.
 Very simple flow to allow the user to create a contact and if the user input the incorrect data it will display the faultmessage
 
 ![image](https://user-images.githubusercontent.com/117833554/201966890-b5433c94-7184-4b91-a70d-ce9206808af6.png)
 
 
-**Reasoning** -
+**AIM** -
 Created a quick contact/opportunity and automated created Opportunity Contact Role with Multi-Screens.
 Ulitize - Get Record to retrieve account records so the contact object can use those fields for address. Created two screens with Contact/Opportunity *(Picklists for Opportunity as well) On the Opportunity screen you can search for accounts as well. After going through the whole process using recordId I was able to create an Opportunity Contact Role automatically without using an screen. Each screen support a Fault error message
 
@@ -42,12 +42,31 @@ Ulitize - Get Record to retrieve account records so the contact object can use t
 
 ## Record Trigger Flows:
 
-**Reasoning** -
+**AIM** -
 
 Created a custom object called "Tickets" its used to allow users to open tickets in regards to nCino related issues/erorrs/etc. Need a way to alert the user's when they were assigned a ticket and display the description of the ticket in outlook.
 When does this flow launched? When the record is created or update because the field "Assigned_to" need to be update with a user. When a user opened a ticket they should not assigned it to anyone first because the administrator team need to decide where to direct the ticket to get it solved. Using the Element Action email we can get a custom notification when a user is assigned a ticket.
 
 ![image](https://user-images.githubusercontent.com/117833554/201967094-27f2ce66-a8f2-4845-abe2-8cc1941df0ee.png)
+
+**AIM** -
+Create a Record-Triggered Flow that will check if a new Contact record has an email address and if not posts a message to Chatter for the record owner.
+
+![image](https://user-images.githubusercontent.com/117833554/207113249-93f391dd-5691-4e53-8c74-efd0b7191f78.png)
+
+
+## Schedule Trigger Flows:
+**AIM** -
+Create a flow that will run once and update all contacts that a) are not deleted records and b) do not have a value for Lead Source. Update the lead source value to "Web" if it is empty.
+![image](https://user-images.githubusercontent.com/117833554/207110490-11c43fbd-2230-495b-8e46-b9de6984d253.png)
+
+
+
+
+## Autolaunched Flows:
+
+
+
 
 ---
 
