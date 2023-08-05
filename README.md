@@ -19,7 +19,8 @@ Currently studying Platform Developer I
     
     *Ranger Status*
 
-![image](https://user-images.githubusercontent.com/117833554/201966203-cb4739b7-af3c-4bef-86ea-175df322e793.png)
+![image](![image](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/cc6b9860-d9e1-4e58-9ecf-762190909d26)
+)
 
 ---
 ## Flows Automations
