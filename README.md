@@ -1,6 +1,5 @@
 # Knox-Nethan Salesforce
 This is my portfolio for Salesforce &amp; nCino
-Currently studying Platform Developer I
 # Salesforce 
 ## Certifications & Trailhead (Salesforce)
 ![image](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/69fa2118-f7fe-44a2-983e-9f062620a765)
@@ -20,8 +19,7 @@ Currently studying Platform Developer I
     
     *Ranger Status*
 
-![image](![image](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/cc6b9860-d9e1-4e58-9ecf-762190909d26)
-)
+
 
 ---
 ## Flows Automations
