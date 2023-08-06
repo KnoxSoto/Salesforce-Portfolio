@@ -3,9 +3,6 @@ This is my portfolio for Salesforce &amp; nCino
 Currently studying Platform Developer I
 # Salesforce 
 ## Certifications & Trailhead (Salesforce)
-![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/048b5914-bd5c-437f-b64b-a939ede8790f)
-![2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/5ff1f124-6ebd-493d-a99e-75b7dcac6069)
-![2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/c4520035-db56-42da-bb2b-5bbba7743c12)
 ![image](https://github.com/KnoxSoto/Salesforce-Portfolio/assets/117833554/69fa2118-f7fe-44a2-983e-9f062620a765)
 
 
