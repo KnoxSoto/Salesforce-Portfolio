@@ -10,16 +10,36 @@ This is my portfolio for Salesforce &amp; nCino
 **Achievements:**
 
 - [Trailhead](https://trailblazer.me/id/ksoto4)
+
+- Currently Goal
+- Salesforce AI certificaiton
+- Salesforce Platform Developer I
     
     *Salesforce Certified Administrator*
     
     *Salesforce Certified Platform App Builder*
+  
+    *Salesforce Certified Service Cloud Consultant
     
     *Security Specialist SuperBadge*
+
+  *Business Administration Specialist SuperBadge*
+
+   *Service Cloud Specialist SuperBadge*
     
     *Ranger Status*
 
 
+
+-- 
+## Salesforce Projects
+  
+--
+## Validation rules, Approval Process, Objects
+
+
+-- 
+## Data Management
 
 ---
 ## Flows Automations
@@ -64,6 +84,10 @@ Create a flow that will run once and update all contacts that a) are not deleted
 
 
 ## Autolaunched Flows:
+
+
+---
+## Apex/VisualForce/LWC
 
 
 
